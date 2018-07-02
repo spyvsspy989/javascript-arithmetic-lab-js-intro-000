@@ -5,10 +5,6 @@ subtract(60-40);
 multiply(2*3.4);
 divide(5.0/2.5);
 
-
-
-
-
 beforeEach(function() {
   a = Math.floor(Math.random() * 1000)
   b = Math.floor(Math.random() * 1000)
