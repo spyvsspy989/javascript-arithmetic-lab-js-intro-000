@@ -11,6 +11,10 @@ number//;
 number--;
 number;
 
+parseInt('2' , 10);
+parseInt('nonsense!' , 10);
+parseFloat('80.123999');
+
 beforeEach(function() {
   a = Math.floor(Math.random() * 1000)
   b = Math.floor(Math.random() * 1000)
